@@ -72,7 +72,7 @@ Option 1: Weather Observations
 Build a tool to mine the logs of a weather balloon for important
 observation details.
 
-The complete specification of this option can be found in <weather.md>.
+The complete specification of this option can be found in [weather.md](weather.md).
 
 
 Option 2: Battleship
@@ -80,7 +80,7 @@ Option 2: Battleship
 
 Build an API for simulating a game of "Battleship".
 
-The complete specification of this option can be found in <battleship.md>.
+The complete specification of this option can be found in [battleship.md](battleship.md).
 
 
 Option 3: Substitute Your Own Project
@@ -114,7 +114,7 @@ To submit:
 F.A.Q.
 ------
 
-1. Is it OK to share this (or your solutions) publicly?
+1. Is it OK to share your solutions publicly?
 
  - Yes, the questions are not prescriptive, the process and discussion around
    the code is the valuable part.
