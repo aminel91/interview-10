@@ -151,9 +151,8 @@ F.A.Q.
      just let us know.
 
    - Shrink the problem statement yourself. We would be more than
-     happy to see a smaller (even tiny) solution where the candidate
-     has explicitly shrunk the problem to a scale that they can work
-     with.
+     happy to see a smaller (even tiny) solution where you have
+     explicitly shrunk the problem to a scale that they can work with.
 
    - Just let us know, and we will see what we can do in terms of
      alternatives that will be less time-consuming.
@@ -162,12 +161,12 @@ F.A.Q.
 5. Something is ambiguous, and I don't know what to do?
 
  The first thing is: don't get stuck. We really don't want to trip you
- up unintentionally , we are just attempting to see how you approach
+ up unintentionally, we are just attempting to see how you approach
  problems. That said, there are intentional ambiguities in the
- specification, partly to see how candidates fill in those gaps, and
- partly because the specification is written in English.
+ specification, partly to see how you fill in those gaps, and partly
+ because the specification is written in English.
 
- If you really feel stuck, the first preference is for you to make a
+ If you really feel stuck, our first preference is for you to make a
  decision and document it with your submission - in this case there is
  really no wrong answer. If you feel it is not possible to do this,
  just send us an email and we will try to clarify or correct the

@@ -57,10 +57,10 @@ tasks:
     balloon we would first like to be able to generate a test file of
     representative (at least in form) data for use in simulation and
     testing. This tool should be able to generate at least 500 million
-    lines data for testing your tool. Remember, that the data is not
+    lines of data for testing your tool. Remember that the data is not
     reliable, so consider including invalid and out of order lines.
 
- 2. Produce statistics of the flight, the program should be able to
+ 2. Produce statistics of the flight. The program should be able to
     compute any combination of the following on request:
 
     - The minimum temperature.
