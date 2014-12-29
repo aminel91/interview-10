@@ -40,12 +40,13 @@ a second time based on the feedback.
 Keep it simple. Really. 4-6 hours isn't a lot of time and we really don't
 want you spending too much more time on it than that.
 
-Treat it like production code. These may be toy exercises, but we
-really would like to get an idea of how you build code on a day-to-day
-basis.
+__Treat it like production code__. That is, develop your software in the same
+way that you would for any code that is intended to be deployed to production. These may
+be toy exercises, but we really would like to get an idea of how you build code on
+a day-to-day basis.
 
 You can use any language, tools or solutions as you see fit. We do
-however recommend you use something you a familiar with. We would
+however recommend you __use something you a familiar with__. We would
 prefer to see something done well in an older technology, or one we
 may not use, than to see a poor one in the cool new programming
 language.
@@ -56,12 +57,12 @@ or just a pointer to a source control repository. In your submission,
 you should include:
 
  - The code and what ever is required to run it. You can assume that
-   this will run on some *nix like operating system and will have a
+   this will __run on some *nix like operating system__ and will have a
    fairly standard set of command line tools. If you require something
    specific, either include it inline, or document it in a way that
    it would be trivial for us to get and run your code.
 
- - A small README documenting the problem you are undertaking;
+ - A small __README__ documenting the problem you are undertaking;
    documentation of any assumptions or simplifications you have made;
    and a short description of how to run your code.
 
