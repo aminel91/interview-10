@@ -67,21 +67,21 @@ you should include:
    and a short description of how to run your code.
 
 
-Option 1: Weather Observations
+Option 1: Battleship
+--------------------
+
+Build an API for simulating a game of "Battleship".
+
+The complete specification of this option can be found in [battleship.md](battleship.md).
+
+
+Option 2: Weather Observations
 ------------------------------
 
 Build a tool to mine the logs of a weather balloon for important
 observation details.
 
 The complete specification of this option can be found in [weather.md](weather.md).
-
-
-Option 2: Battleship
---------------------
-
-Build an API for simulating a game of "Battleship".
-
-The complete specification of this option can be found in [battleship.md](battleship.md).
 
 
 Option 3: Substitute Your Own Project
