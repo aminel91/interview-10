@@ -41,9 +41,11 @@ Keep it simple. Really. 4-6 hours isn't a lot of time and we really don't
 want you spending too much more time on it than that.
 
 __Treat it like production code__. That is, develop your software in the same
-way that you would for any code that is intended to be deployed to production. These may
-be toy exercises, but we really would like to get an idea of how you build code on
-a day-to-day basis.
+way that you would for any code that is intended to be deployed to production.
+You will want to write tests and have them in the same repo as the code. You
+should also think about how you're going to handle and report failure. These
+may be toy exercises, but we really would like to get an idea of how you build
+ code on a day-to-day basis.
 
 You can use any language, tools or solutions as you see fit. We do
 however recommend you __use something you a familiar with__. We would
