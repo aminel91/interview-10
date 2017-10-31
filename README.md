@@ -37,19 +37,23 @@ a second time based on the feedback.
 
 ### What we are looking for?
 
-Keep it simple. Really. 4-6 hours isn't a lot of time and we really don't
-want you spending too much more time on it than that.
+Keep it simple. Really. 4-6 hours isn't a lot of time and we really
+don't want you spending too much more time on it than that. It's more
+important for us to see how you approach the problem rather then
+solving it in its entirety.
 
-__Treat it like production code__. That is, develop your software in the same
-way that you would for any code that is intended to be deployed to production. These may
-be toy exercises, but we really would like to get an idea of how you build code on
-a day-to-day basis.
+__Treat it like production code__. That is, develop your software in
+the same way that you would for any code that is intended to be
+deployed to production. For example, if you would usually write tests
+for your code then you should aim to do the same here. These may be
+toy exercises, but we really would like to get an idea of how you
+build code on a day-to-day basis.
 
 You can use any language, tools or solutions as you see fit. We do
-however recommend you __use something you a familiar with__. We would
+however recommend you __use something you are familiar with__. We would
 prefer to see something done well in an older technology, or one we
 may not use, than to see a poor one in the cool new programming
-language.
+language or something we use such as Haskell.
 
 You can submit the code in any way that is convenient for you - you
 can email us a tarball, a pointer to download your code from somewhere
